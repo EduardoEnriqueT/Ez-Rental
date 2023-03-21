@@ -1,0 +1,2 @@
+C:\Users\Eduar\Desktop\CST4708\ARMS\ARMSBOLayer\obj\Debug\ARMSBOLayer.csproj.AssemblyReference.cache
+C:\Users\Eduar\Desktop\CST4708\ARMS\ARMSBOLayer\obj\Debug\ARMSBOLayer.csproj.CoreCompileInputs.cache

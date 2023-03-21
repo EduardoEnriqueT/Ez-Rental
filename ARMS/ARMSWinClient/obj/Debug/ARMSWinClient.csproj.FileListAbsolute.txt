@@ -1,0 +1,4 @@
+C:\Users\Eduar\Desktop\CST4708\ARMS\ARMSWinClient\obj\Debug\ARMSWinClient.csproj.AssemblyReference.cache
+C:\Users\Eduar\Desktop\CST4708\ARMS\ARMSWinClient\obj\Debug\ARMSWinClient.Properties.Resources.resources
+C:\Users\Eduar\Desktop\CST4708\ARMS\ARMSWinClient\obj\Debug\ARMSWinClient.csproj.GenerateResource.cache
+C:\Users\Eduar\Desktop\CST4708\ARMS\ARMSWinClient\obj\Debug\ARMSWinClient.csproj.CoreCompileInputs.cache
